@@ -1,0 +1,26 @@
+{
+  "name": "browsersync_test",
+  "version": "0.0.1",
+  "description": "config enviroment gulp, compass, browsersync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jorge-AC/browsersync_test.git"
+  },
+  "author": "jorge-ac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jorge-AC/browsersync_test/issues"
+  },
+  "homepage": "https://github.com/Jorge-AC/browsersync_test",
+  "devDependencies": {
+    "browser-sync": "^2.7.1",
+    "gulp": "^3.8.11",
+    "gulp-compass": "^2.0.4",
+    "gulp-compass-imagehelper": "^0.2.5",
+    "gulp-plumber": "^1.0.0"
+  }
+}
